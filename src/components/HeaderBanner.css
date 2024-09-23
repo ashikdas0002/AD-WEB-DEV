@@ -1,0 +1,64 @@
+.header-bg {
+    background: linear-gradient(112.1deg, rgb(5, 6, 8) 11.4%, rgb(34, 39, 59) 70.2%);
+    padding: 10px 0px;
+}
+
+
+
+
+.header-name-intro {
+    /* background: linear-gradient(to bottom, rgba(255, 255, 255, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), radial-gradient(at top center, rgba(255, 255, 255, 0.40) 0%, rgba(0, 0, 0, 0.40) 120%) #989898;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; */
+    color: #DDDDDD;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+.header-intro-bg {
+    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
+
+.header-model {
+    border: 5px solid #154360;
+    background-color: #151d2594;
+    border-radius: 15%;
+}
+
+.banner-frame {
+    background: linear-gradient(109.6deg, rgb(6, 2, 2) 32.4%, rgb(137, 30, 47) 98.8%);
+    border: 5px solid #34495E;
+    border-radius: 30px;
+
+}
+
+.cv-btn {
+    font-size: 25px;
+    color: #DDDDDD;
+    border: 1px solid blue;
+    padding: 10px 40px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.icon-border {
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.banner-experince-info {
+    background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);
+}
